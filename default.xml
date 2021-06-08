@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="origin" fetch="ssh://git@bitbucket.org/spectracom/" />
-  <remote name="github" fetch="https://github.com/" />
+  <remote name="github" fetch="ssh://git@github.com/" />
   <default remote="origin" revision="master" sync-j="4" />
 
   <!-- please respect name-based alphabetical ordering in subsections -->
