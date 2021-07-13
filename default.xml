@@ -10,6 +10,6 @@
   </project>
   <project name="disciplining-minipod" path="disciplining-minipod" revision="dev"/>
   <project name="oscillatord" path="oscillatord" revision="dev"/>
-  <project name="CharlesParent/Time-Appliance-Project" remote="github" path="Time-Appliance-Project" revision="ioctl-test"/>
+  <project name="CharlesParent/Time-Appliance-Project" remote="github" path="Time-Appliance-Project" revision="orolia-art-card-support"/>
   <project name="CharlesParent/ubloxcfg" remote="github" path="ubloxcfg" revision="dev"/>
 </manifest>
