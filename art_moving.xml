@@ -5,11 +5,11 @@
   <default remote="origin" revision="main" sync-j="4" />
 
   <!-- please respect name-based alphabetical ordering in subsections -->
-  <project name="art-build" path="build" revision="master">
+  <project name="art-build" path="build" revision="dev">
     <linkfile src="Makefile" dest="Makefile"/>
   </project>
-  <project name="disciplining-minipod" path="disciplining-minipod"/>
-  <project name="oscillatord" path="oscillatord"/>
+  <project name="disciplining-minipod" path="disciplining-minipod" revision="dev"/>
+  <project name="oscillatord" path="oscillatord" revision="dev"/>
   <project name="CharlesParent/Time-Appliance-Project" remote="github" path="Time-Appliance-Project" revision="orolia-art-card-support"/>
   <project name="Orolia2s/ubloxcfg" remote="github" path="ubloxcfg" revision="master"/>
 </manifest>
