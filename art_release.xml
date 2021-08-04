@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="ssh://git@bitbucket.org/spectracom/" />
   <remote name="github" fetch="ssh://git@github.com/" />
-  <default remote="origin" revision="main" sync-j="4" />
+  <default remote="github" revision="main" sync-j="4" />
 
   <!-- please respect name-based alphabetical ordering in subsections -->
-  <project name="art-build" path="build" revision="fea462958460c784407d938e2effba88852bc115">
+  <project name="Orolia2s/art-build" path="build" revision="fea462958460c784407d938e2effba88852bc115">
     <linkfile src="Makefile" dest="Makefile"/>
   </project>
-  <project name="disciplining-minipod" path="disciplining-minipod" revision="9359c376ded846bdbf43b82ddc7783866d7f39ad"/>
-  <project name="oscillatord" path="oscillatord" revision="51651dc7f689474af6b9096fffb581bda51e6b24"/>
-  <project name="CharlesParent/Time-Appliance-Project" remote="github" path="Time-Appliance-Project" revision="96252c942489106f4a9f5d2671603116a9fae187"/>
-  <project name="Orolia2s/ubloxcfg" remote="github" path="ubloxcfg" revision="a585be45fb75a0805add59dfca941ce913ef6688"/>
+  <project name="Orolia2s/disciplining-minipod" path="disciplining-minipod" revision="9359c376ded846bdbf43b82ddc7783866d7f39ad"/>
+  <project name="Orolia2s/oscillatord" path="oscillatord" revision="51651dc7f689474af6b9096fffb581bda51e6b24"/>
+  <project name="CharlesParent/Time-Appliance-Project" path="Time-Appliance-Project" revision="96252c942489106f4a9f5d2671603116a9fae187"/>
+  <project name="Orolia2s/ubloxcfg" path="ubloxcfg" revision="a585be45fb75a0805add59dfca941ce913ef6688"/>
 </manifest>
