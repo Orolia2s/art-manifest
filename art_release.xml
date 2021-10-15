@@ -7,8 +7,8 @@
   <project name="Orolia2s/art-build" path="build" revision="fea462958460c784407d938e2effba88852bc115">
     <linkfile src="Makefile" dest="Makefile"/>
   </project>
-  <project name="Orolia2s/disciplining-minipod" path="disciplining-minipod" revision="1e5a2bde491b672ca9f3583dbb47903c643ea45e"/>
-  <project name="Orolia2s/oscillatord" path="oscillatord" revision="88dbfb46a6853a8dbe2780b66bfff2edb28a1b59"/>
-  <project name="CharlesParent/Time-Appliance-Project" path="Time-Appliance-Project" revision="683de596e45f8472d9420ad0828212bed1f123ae"/>
+  <project name="Orolia2s/disciplining-minipod" path="disciplining-minipod" revision="e04fec80e47c00bdee4d6c090d1b04a10c03cb15"/>
+  <project name="Orolia2s/oscillatord" path="oscillatord" revision="a19f9c9b401253da7044a507668a01d70a065923"/>
+  <project name="CharlesParent/Time-Appliance-Project" path="Time-Appliance-Project" revision="a80d44443d8a357e90af668273fe2efe95311c28"/>
   <project name="Orolia2s/ubloxcfg" path="ubloxcfg" revision="2c37136c15d0f75cfc0db52433b8d945b403eec6"/>
 </manifest>
